@@ -1,3 +1,5 @@
 # video-automations
 
-#Projeto open source  de estudos de vídeos automatizado by Filipe  Deschamps
+#Projeto open source  de estudos de vídeos automatizado s
+by
+Filipe Deschamps
